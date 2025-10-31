@@ -1,2 +1,3 @@
 # Rakesh-demo
-This is my GitHub demo
+This is my first Git Repository.
+Author - Tanmay Roy Rakesh
